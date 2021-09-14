@@ -10,7 +10,7 @@ I was born and raised in Vietnam, and am currently living in Tampa, Florida.
 - 🌱  Since I'm on a roll 🍥 , my plan is to take [TensorFlow: Data & Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) next.
 
 
-- 🤝  I’m **looking for a new position** where I get to utilize my skills in **Data Science** & **Machine Learning** (and learn some more). I am very **open to relocation**!  ✈️ 🚘 🛵 🛶 🛳️ 🪂 🚀  
+- 🤝  I’m **looking for a new position** where I get to utilize my skills in **Data Science** & **Machine Learning** (and learn some more). I am very **open to relocation**!  ✈️ |  🚘  | 🛵  | 🛶 | 🛳️  | 🪂 | 🚀  
 
 
 - 💬  Ask me about anything! (I do enjoy attention...)

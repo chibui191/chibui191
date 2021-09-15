@@ -3,7 +3,7 @@
 
 My name is **Chi Bui**, and I am a **Data Scientist** with a focus in ✨ **Deep Learning** ✨
 
-I was born and raised in Vietnam, and am currently living in Tampa, Florida. 
+- 📍  I was born and raised in Vietnam, and am currently living in Tampa, Florida. 
 
 - 🎓  I have just graduated from Flatiron School Data Science program (09/2021). I also have a Bachelor's Degree in Psychology 🧠 
 - 📈  Most recently, I worked on a [Bitcoin Volatility Forecasting Project](https://github.com/chibui191/bitcoin_volatility_forecasting).  
@@ -24,12 +24,11 @@ I was born and raised in Vietnam, and am currently living in Tampa, Florida.
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibui191" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chibui191&show_icons=true&hide=contribs,prs" />
-</a>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibui191&theme=radical" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chibui191&show_icons=true&theme=radical&hide=contribs,prs" />
+</div>
 
 
 

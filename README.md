@@ -25,9 +25,9 @@ My name is **Chi Bui**, and I am a **Data Scientist** with a focus in ✨ **Deep
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibui191&theme=radical" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibui191&theme=radical&hide=html,css&layout=compact" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chibui191&show_icons=true&theme=radical&hide=contribs,prs" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=chibui191&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
 
 

@@ -1,8 +1,7 @@
 ### 👋 👋 👋   Well, hey there! 😉 
 
 
-### I am **Chi Bui** 
-### a **Data Scientist** with a focus in ✨ **Deep Learning** ✨
+My name is **Chi Bui**. I am a **Data Scientist** with a focus in ✨ **Deep Learning** ✨
 
 - 📍  I was born and raised in Vietnam, and am currently living in Tampa, Florida. 
 

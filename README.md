@@ -7,7 +7,7 @@ My name is **Chi Bui**. I am a **Data Scientist** with a focus in ✨ **Deep Lea
 
 - 🎓  I have just graduated from Flatiron School Data Science program (09/2021). I also have a Bachelor's Degree in Psychology 🧠 
 - 📈  Most recently, I worked on a [Bitcoin Volatility Forecasting Project](https://github.com/chibui191/bitcoin_volatility_forecasting).  
-- 🌱  Since I'm on a roll 🍥 , my plan is to take [TensorFlow: Data & Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) next.
+- 🌱  Since I'm on a roll 🍥 , I am currently taking [TensorFlow: Data & Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment).
 
 
 - 🤝  I’m **looking for a new position** where I get to utilize my skills in **Data Science** & **Machine Learning** (and learn some more). I am very **open to relocation**!  ✈️ |  🚘  | 🛵  | 🛶 | 🛳️  | 🪂 | 🚀  

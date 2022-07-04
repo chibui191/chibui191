@@ -1,23 +1,3 @@
-### 👋 👋 👋   Well, hey there! 😉 
-
-
-My name is **Chi Bui**. I am a **Data Scientist** with a focus in ✨ **Deep Learning** ✨
-
-- 📍  I was born and raised in Vietnam, and am currently living in Tampa, Florida. 
-
-- 🎓  I have just graduated from Flatiron School Data Science program (09/2021). I also have a Bachelor's Degree in Psychology 🧠 
-- 📈  Most recently, I worked on a [Bitcoin Volatility Forecasting Project](https://github.com/chibui191/bitcoin_volatility_forecasting).  
-- 🌱  Since I'm on a roll 🍥 , I am currently taking [TensorFlow: Data & Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment).
-
-
-- 🤝  I’m **looking for a new position** where I get to utilize my skills in **Data Science** & **Machine Learning** (and learn some more). I am very **open to relocation**!  ✈️ |  🚘  | 🛵  | 🛶 | 🛳️  | 🪂 | 🚀  
-
-- 📫  How to reach me: [chibui191@gmail.com](mailto:chibui191@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chi-phuong-bui/) | [Blog](https://chibui191.medium.com/)
-
-- 🕠  What do I do in my free time, you ask? - I go to the gym and lift some weights 🏋🏻‍♀️ 
-
-
-
 ## 📈 GitHub Stats
 
 <div align="center">
